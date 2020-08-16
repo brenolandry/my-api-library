@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LibraryApp.Views.LoanBook"
+             Title="Empréstimo">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label x:Name="lblTitulo" HorizontalTextAlignment="Center" FontSize="Large" Margin="20,20" />
+            <Image x:Name="imgCapa" HeightRequest="100" WidthRequest="100" />
+            <Label x:Name="lblAutor" HorizontalTextAlignment="Center" />
+            <Label Text="Nome" />
+            <Entry x:Name="txtName" Placeholder="Informe seu nome"/>
+            <Label Text="telefone" />
+            <Entry x:Name="txtTelefone" Placeholder="Informe seu telefone" Keyboard="Numeric"/>
+            <Button x:Name="btnSolicitarEmprestimo" Text="Solicitar Empréstimo" Margin="20,20" Clicked="btnSolicitarEmprestimo_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

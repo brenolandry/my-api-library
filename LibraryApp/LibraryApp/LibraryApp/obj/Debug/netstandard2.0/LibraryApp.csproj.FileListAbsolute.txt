@@ -1,0 +1,17 @@
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.csprojAssemblyReference.cache
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\Views\BookDetail.xaml.g.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\Views\Books.xaml.g.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.AssemblyInfo.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.dll
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\ref\LibraryApp.dll
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.pdb
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\bin\Debug\netstandard2.0\LibraryApp.deps.json
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\bin\Debug\netstandard2.0\LibraryApp.dll
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\bin\Debug\netstandard2.0\ref\LibraryApp.dll
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\bin\Debug\netstandard2.0\LibraryApp.pdb
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\Views\LoanBook.xaml.g.cs
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\VOXDATA\source\repos\LibraryApp\LibraryApp\LibraryApp\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,9 @@
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\VOXDATA\source\repos\GothanLibrary\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
