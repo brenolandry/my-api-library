@@ -1996,24 +1996,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VOXDATA\\.nuget\\packages\\": {},
+    "C:\\Users\\brenolandry\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.Android\\LibraryApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.Android\\LibraryApp.Android.csproj",
       "projectName": "LibraryApp.Android",
-      "projectPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.Android\\LibraryApp.Android.csproj",
-      "packagesPath": "C:\\Users\\VOXDATA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.Android\\LibraryApp.Android.csproj",
+      "packagesPath": "C:\\Users\\brenolandry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\VOXDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brenolandry\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2027,8 +2027,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
-              "projectPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj"
+            "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
+              "projectPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj"
             }
           }
         }

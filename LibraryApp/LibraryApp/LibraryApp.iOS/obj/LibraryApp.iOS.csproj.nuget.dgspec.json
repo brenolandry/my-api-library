@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj": {}
+    "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj": {
+    "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
         "projectName": "LibraryApp.iOS",
-        "projectPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\VOXDATA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\obj\\",
+        "projectPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\brenolandry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\VOXDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brenolandry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
-                "projectPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj"
+              "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
+                "projectPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj"
               }
             }
           }
@@ -65,21 +65,20 @@
         }
       }
     },
-    "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
+    "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
+        "projectUniqueName": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
         "projectName": "LibraryApp",
-        "projectPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
-        "packagesPath": "C:\\Users\\VOXDATA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp\\obj\\",
+        "projectPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
+        "packagesPath": "C:\\Users\\brenolandry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\VOXDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brenolandry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -137,7 +136,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

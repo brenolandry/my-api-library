@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G9eBn6eh8rUXghTimmF9dNU1tG67sS5vvthjIblmvapa1LnviiuoXCSRHjOO30d8PYlmLz7KVK5HUjfqOrF0ng==",
+  "dgSpecHash": "jIJQ9WsZJZotYGTZJySzQtz6LXusojTIrCJp+v4Jf1uzsd/EwRAIEtcaBstLeT3MWG0PP5uzTwm1fSFzU7nnmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VOXDATA\\source\\repos\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\brenolandry\\source\\repos\\my-api-library\\LibraryApp\\LibraryApp\\LibraryApp.iOS\\LibraryApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\VOXDATA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\brenolandry\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
-    "C:\\Users\\VOXDATA\\.nuget\\packages\\xamarin.forms.behaviorvalidationpack\\1.1.1\\xamarin.forms.behaviorvalidationpack.1.1.1.nupkg.sha512"
+    "C:\\Users\\brenolandry\\.nuget\\packages\\xamarin.forms.behaviorvalidationpack\\1.1.1\\xamarin.forms.behaviorvalidationpack.1.1.1.nupkg.sha512"
   ],
   "logs": []
 }
